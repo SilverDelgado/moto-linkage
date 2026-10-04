@@ -1,13 +1,17 @@
 # Linkage de moto
 
-Proyecto del linkage de la moto.
-
-## Estado
-
-Pendiente de indicar si esta terminado o en proceso.
+Linkage de suspension acortado, pero que al final hice con rose joints.
 
 ## Contenido
 
 - `imgs/`: fotos e imagenes.
 - `models/`: modelos STL.
 - `solidworks/`: piezas de SolidWorks.
+
+## Fotos
+
+![Linkage lateral](imgs/side.jpg)
+
+![Linkage](imgs/tkl.jpg)
+
+![Linkage superior](imgs/top.jpg)
